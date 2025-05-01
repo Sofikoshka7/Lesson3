@@ -9,9 +9,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Sharer" />
+            <option value="$PROJECT_DIR$/Dialog" />
+            <option value="$PROJECT_DIR$/FavouriteBook" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/intentapp" />
+            <option value="$PROJECT_DIR$/simplefragmentapp" />
+            <option value="$PROJECT_DIR$/sysytemintentsapp" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

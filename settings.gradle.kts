@@ -23,3 +23,6 @@ rootProject.name = "Lesson3"
 include(":app")
 include(":intentapp")
 include(":FavouriteBook")
+include(":Dialog")
+include(":sysytemintentsapp")
+include(":simplefragmentapp")
